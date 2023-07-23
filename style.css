@@ -1,0 +1,22 @@
+.contenedor {
+    padding: 150px;
+    margin: 0 auto;
+    max-width: 70%; 
+}
+
+
+* {
+    color: white;
+}
+
+h2 {
+    text-align: center;
+}
+
+#Actualizar {
+    display: none;
+}
+
+.lista button {
+    margin-right: 10px;
+}
