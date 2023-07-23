@@ -30,7 +30,7 @@ h2 {
 }
 
 
-@media (min-width: 769px) and (max-width: 992px) {
+@media (min-width: 769px) y (max-width: 992px) {
     .contenedor {
         padding: 80px;
         max-width: 90%;
